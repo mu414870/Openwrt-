@@ -45,7 +45,7 @@ git clone https://github.com/mu414870/Openwrt-.git && chmod +x Openwrt-/openwrt.
 2、进入脚本目录并执行
 
 ```bash
-cd OpenwrtCompileScript && bash openwrt.sh
+cd Openwrt- && bash openwrt.sh
 ```
 
 **注意**:执行脚本后会自动添加系统变量，第二次可使用如下命令运行脚本。(如果不行，请重启的你的Linux)
