@@ -38,7 +38,7 @@ The script is made to work on these OS :
 1、使用git克隆下载脚本并赋予执行权限
 
 ```bash
-git clone https://github.com/mu414870/Openwrt-.git && chmod +x OpenwrtCompileScript/openwrt.sh
+git clone https://github.com/mu414870/Openwrt-.git && chmod +x Openwrt-/openwrt.sh
 
 ```
 
