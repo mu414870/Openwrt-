@@ -4,6 +4,7 @@
 
 ## 序言
 
+本文件基于openwrtcompileshell大佬的文件做了一些改动。
 用于辅助Openwrt编译，但不会帮你完成整个编译过程，需要一点Openwrt编译基础
 
 降低编译难度，减少重复的步骤，但不利于学习，此脚本适用于有点openwrt编译的基础的最佳，完全没有编译基础的请去补充相关知识
@@ -37,7 +38,7 @@ The script is made to work on these OS :
 1、使用git克隆下载脚本并赋予执行权限
 
 ```bash
-git clone https://github.com/openwrtcompileshell/OpenwrtCompileScript.git && chmod +x OpenwrtCompileScript/openwrt.sh
+git clone https://github.com/mu414870/Openwrt-.git && chmod +x OpenwrtCompileScript/openwrt.sh
 
 ```
 
